@@ -44,7 +44,7 @@
 
 ## 📩 Utilizando o Mailtrap:
 
-<img width="750px" src="https://github.com/lucarauj/Microsservice-Envio-Email/blob/main/images/mailTrap.png"/>
+<img width="750px" src="https://github.com/lucarauj/Microsservice-Envio-Email/blob/main/images/mail.png"/>
 
 <br>
 
